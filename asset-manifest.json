@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/LWL230046729/pwebsite.git/static/css/main.f855e6bc.css",
-    "main.js": "/LWL230046729/pwebsite.git/static/js/main.0edda397.js",
+    "main.css": "/LWL230046729/pwebsite.git/static/css/main.e6c13ad2.css",
+    "main.js": "/LWL230046729/pwebsite.git/static/js/main.b430649c.js",
     "static/js/453.ed3810f9.chunk.js": "/LWL230046729/pwebsite.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/LWL230046729/pwebsite.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/LWL230046729/pwebsite.git/index.html",
-    "main.f855e6bc.css.map": "/LWL230046729/pwebsite.git/static/css/main.f855e6bc.css.map",
-    "main.0edda397.js.map": "/LWL230046729/pwebsite.git/static/js/main.0edda397.js.map",
+    "main.e6c13ad2.css.map": "/LWL230046729/pwebsite.git/static/css/main.e6c13ad2.css.map",
+    "main.b430649c.js.map": "/LWL230046729/pwebsite.git/static/js/main.b430649c.js.map",
     "453.ed3810f9.chunk.js.map": "/LWL230046729/pwebsite.git/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0edda397.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b430649c.js"
   ]
 }
